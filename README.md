@@ -1,6 +1,3 @@
-# Portfolio
-Hana Pham's Portfolio
-
 # Xin chao 👋, My name is Hana
 
 I’m a tech enthusiast focused on building smart, efficient, and creative solutions through **AI, automation, and testing**. I love turning repetitive tasks into smooth workflows, and exploring how intelligent systems can make software more reliable and life a little easier.
