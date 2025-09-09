@@ -222,9 +222,6 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
 <div align="center">
 
 ### 🚀 **"Building the future, one component at a time"**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6366f1&style=for-the-badge)
-
 **⭐ If you find my projects interesting, consider giving them a star!**
 
 </div>
