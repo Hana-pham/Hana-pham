@@ -2,232 +2,289 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+AI+Enthusiast;Building+Smart+%26+Clean+Web+Apps;Always+Yearning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+AI+Engineer;Building+Smart+%26+Beautiful+Web+Apps;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js)](https://git.io/typing-svg)
 
 </div>
 
----
+## 🚀 About Me
 
-## 🚀 **About Me**
-I'm a **Frontend Developer** passionate about creating intelligent, user-centric applications. I transform ideas into interactive experiences using modern web technologies and AI integration.
+I'm a **Frontend Developer** passionate about creating intelligent, user-centric applications. I combine modern web technologies with AI to solve real-world problems.
 
 ```javascript
 const hana = {
   location: "Sydney, Australia 🇦🇺",
-  currentFocus: "Frontend Development + AI Integration",
-  availableFor: "Frontend Developer Roles",
-  learningGoal: "1% better every day",
-  motto: "Building the future, one component at a time"
+  currentFocus: "Full-Stack Development + AI Integration",
+  availableFor: "Frontend & Software Engineering Roles",
+  learning: ["System Design", "React Native", "Machine Learning"],
+  motto: "Building technology that makes a difference"
 }
 ```
 
 ---
 
-## 💼 **Currently Building**
+## 💼 Featured Projects
 
-### 🌸 **Spring Petals** - AI-Powered Floral Discovery Platform
-```
-🎯 Problem: Finding the perfect flowers for occasions is overwhelming
-💡 Solution: AI agent that recommends flowers by meaning, creates vision boards, 
-           provides care tips, and connects with local Sydney communities
-🛠️ Tech: Next.js 14, OpenAI API, Supabase, Tailwind CSS, Geolocation API
-📊 Impact: Helping users discover perfect florals for life's special moments
-```
-**[Live Demo](#) | [Code](#)**
+### 🌙 **Luna** - AI-Powered Women's Wellness Platform
+**Problem:** 89% of women juggle 4+ disconnected health apps while lacking trusted health guidance  
+**Solution:** Comprehensive wellness platform with AI-driven pattern recognition and safety protocols
 
-### 🍰 **Crookie App** - AI-Enhanced Recipe Discovery
+**Tech Stack:**
+```javascript
+Frontend: React Native, TypeScript, Redux Toolkit, Tailwind CSS
+Backend: Node.js, Express, GraphQL, PostgreSQL
+AI/ML: OpenAI API, TensorFlow, Pattern Recognition
+Security: JWT, OAuth 2.0, HIPAA Compliance
 ```
-🎯 Problem: Finding recipes that match available ingredients and location
-💡 Solution: Recipe app with AI-generated food images and Sydney location integration
-🛠️ Tech: React, DALL-E API, Google Maps API, Firebase, PWA
-📊 Impact: Personalized cooking experience for Sydney food lovers
-```
-**[Live Demo](#) | [Code](#)**
+
+**Key Features:**
+- 🧠 AI pattern recognition for personalized health insights
+- 🔒 Progressive feature access with eating disorder prevention
+- 📊 Real-time analytics without triggering obsessive behaviors
+- 📱 Cross-platform (iOS, Android, Web) with 95% code reuse
+
+**[Live Demo](https://luna-demo.vercel.app)** | **[Case Study](https://hanapham.com/projects/luna)** | **[GitHub](#)**
 
 ---
 
-## 🛠️ **Tech Stack**
+### 🌸 **SpringPetals** - AI Floral Discovery Platform
+**Problem:** Finding perfect flowers for occasions is overwhelming with limited local knowledge  
+**Solution:** AI-powered platform for flower recommendations, care tips, and local florist connections
+
+**Tech Stack:**
+```javascript
+Frontend: Next.js 14, TypeScript, Tailwind CSS
+Backend: Supabase, Edge Functions, PostgreSQL
+AI: GPT-4, DALL-E 3, Semantic Search
+Maps: Mapbox GL, Geolocation API
+```
+
+**Key Features:**
+- 🤖 AI flower recommendations based on meaning and occasion
+- 🎨 DALL-E generated flower arrangement visualizations
+- 📍 Sydney florist integration with real-time availability
+- 💐 Personalized care guides and reminders
+
+**[Live Demo](https://springpetals.vercel.app)** | **[GitHub](#)**
+
+---
+
+### ⚡ **Zippy** - AI Design-to-Code Converter
+**Problem:** Converting Figma designs to code is time-consuming and repetitive  
+**Solution:** Automated tool that converts designs to production-ready code in seconds
+
+**Tech Stack:**
+```javascript
+Core: Python, TypeScript, Node.js
+AI: GPT-4 Vision API, Custom ML Models
+Integration: Figma API, REST APIs
+Output: HTML5, CSS3, React Components
+```
+
+**Key Features:**
+- 🎯 70% reduction in design-to-code time
+- 🔄 80% automation accuracy with smart component detection
+- 📦 Export-ready code with responsive design
+- 🎨 Maintains design system consistency
+
+**[Demo Video](#)** | **[GitHub](#)**
+
+---
+
+### 🎬 **Movie Library** - Native Mobile Applications
+**Problem:** Need for a seamless movie browsing and booking experience across platforms  
+**Solution:** Native iOS and Android apps with real-time movie data and booking capabilities
+
+**Tech Stack:**
+```javascript
+iOS: Swift, UIKit, Core Data, Combine
+Android: Kotlin, Jetpack Compose, Room, Coroutines
+Backend: REST API, GraphQL, Redis Cache
+Testing: XCTest, Espresso, Jest
+```
+
+**Key Features:**
+- 📱 Native performance with platform-specific UI
+- 🎫 Real-time seat selection and booking
+- 💾 Offline mode with smart caching
+- 🔔 Push notifications for new releases
+
+**[iOS App](#)** | **[Android App](#)** | **[GitHub](#)**
+
+---
+
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
-### **AI & Integration**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### **Tools & Workflow**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### AI & Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=FF69B4&icon_color=FF69B4"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula&stroke=FF69B4&ring=FF69B4&fire=FF69B4" alt="GitHub Streak" />
 </div>
 
-<!--<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</div> -->
-
 ---
 
-## 🏆 **What Sets Me Apart**
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🎯 **Problem Solver**
-- Identify real-world problems
-- Design user-centric solutions  
-- Implement with modern tech stack
-- Iterate based on feedback
-
-</td>
-<td valign="top" width="33%">
-
-### 🚀 **Fast Learner**
-- Master new technologies like a sponge
-- Apply learnings immediately
-- Document and share knowledge
-- Stay current with industry trends
-
-</td>
-<td valign="top" width="33%">
-
-### 🤝 **Collaboration Ready**
-- Clear communication skills
-- Experience with modern workflows
-- Open to feedback and mentorship
-- Team player mindset
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 **Featured Code**
+## 💻 Code Philosophy
 
 <details>
-<summary>🤖 AI Integration Example</summary>
+<summary><b>Clean Architecture</b></summary>
 
 ```typescript
-// AI-powered flower recommendation system
-export async function getFlowerRecommendations(occasion: string, mood: string) {
-  const completion = await openai.chat.completions.create({
-    model: "gpt-4-turbo-preview",
-    messages: [{
-      role: "system",
-      content: "You are a floral expert who recommends flowers based on occasions and emotions."
-    }, {
-      role: "user", 
-      content: `Recommend flowers for ${occasion} with a ${mood} mood. Include meaning and care tips.`
-    }],
-    temperature: 0.7,
-  });
+// Example: Separation of concerns in React
+// hooks/useHealthData.ts
+export const useHealthData = (userId: string) => {
+  const [data, setData] = useState<HealthData | null>(null);
+  const [loading, setLoading] = useState(true);
   
-  return {
-    recommendations: completion.choices[0].message.content,
-    timestamp: new Date().toISOString()
-  };
-}
-```
+  useEffect(() => {
+    fetchHealthData(userId)
+      .then(setData)
+      .finally(() => setLoading(false));
+  }, [userId]);
+  
+  return { data, loading };
+};
 
-</details>
-
-<details>
-<summary>⚛️ React Component Example</summary>
-
-```tsx
-// Reusable project card component with TypeScript
-interface ProjectCardProps {
-  title: string;
-  description: string;
-  tech: string[];
-  demoUrl: string;
-  githubUrl: string;
-  status: 'in-progress' | 'completed' | 'planning';
-}
-
-export const ProjectCard: React.FC<ProjectCardProps> = ({
-  title, description, tech, demoUrl, githubUrl, status
-}) => {
-  return (
-    <div className="bg-white rounded-lg p-6 shadow-md hover:shadow-lg transition-shadow">
-      <h3 className="text-xl font-bold mb-2">{title}</h3>
-      <p className="text-gray-600 mb-4">{description}</p>
-      
-      <div className="flex flex-wrap gap-2 mb-4">
-        {tech.map(item => (
-          <span key={item} className="bg-blue-100 text-blue-800 px-2 py-1 rounded text-sm">
-            {item}
-          </span>
-        ))}
-      </div>
-      
-      <div className="flex gap-3">
-        <a href={demoUrl} className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">
-          Live Demo
-        </a>
-        <a href={githubUrl} className="border border-gray-300 px-4 py-2 rounded hover:bg-gray-50">
-          View Code
-        </a>
-      </div>
-    </div>
-  );
+// components/HealthDashboard.tsx
+export const HealthDashboard: FC = () => {
+  const { data, loading } = useHealthData(userId);
+  
+  if (loading) return <Skeleton />;
+  return <DashboardView data={data} />;
 };
 ```
 
 </details>
 
+<details>
+<summary><b>Performance First</b></summary>
+
+```javascript
+// Example: Optimized API with caching
+const getCachedData = async (key, fetchFn, ttl = 3600) => {
+  const cached = await redis.get(key);
+  if (cached) return JSON.parse(cached);
+  
+  const fresh = await fetchFn();
+  await redis.setex(key, ttl, JSON.stringify(fresh));
+  return fresh;
+};
+
+// Usage with automatic cache invalidation
+router.get('/api/user/:id/patterns', async (req, res) => {
+  const data = await getCachedData(
+    `patterns:${req.params.id}`,
+    () => analyzeUserPatterns(req.params.id),
+    3600
+  );
+  res.json(data);
+});
+```
+
+</details>
+
+<details>
+<summary><b>User-Centric Design</b></summary>
+
+```tsx
+// Example: Accessible, responsive component
+interface ButtonProps {
+  variant: 'primary' | 'secondary';
+  loading?: boolean;
+  children: React.ReactNode;
+  onClick: () => void;
+  ariaLabel?: string;
+}
+
+export const Button: FC<ButtonProps> = ({ 
+  variant, loading, children, onClick, ariaLabel 
+}) => (
+  <StyledButton
+    variant={variant}
+    onClick={onClick}
+    disabled={loading}
+    aria-label={ariaLabel || children}
+    aria-busy={loading}
+  >
+    {loading ? <Spinner /> : children}
+  </StyledButton>
+);
+```
+
+</details>
+
 ---
 
+## 🎯 What I Bring to Your Team
 
+- **🚀 Fast Learner:** Built 4 full-stack projects while working full-time
+- **💡 Problem Solver:** Focus on user needs and business impact
+- **📈 Data-Driven:** Decisions backed by research and metrics
+- **🤝 Team Player:** Clear communication and documentation
+- **✨ Quality Focus:** Clean code, tested features, scalable architecture
 
 ---
 
-## 🌟 **Let's Connect & Collaborate**
+## 🌟 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-pham-601a551b0/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://hanapham.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the.hanapham@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-pham-601a551b0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hanapham.com-FF69B4?style=for-the-badge&logo=firefox&logoColor=white)](https://hanapham.com/)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the.hanapham@gmail.com)
 
-</div>
-
-### 💬 **Let's Chat About:**
-- Frontend development opportunities in Sydney
-- AI integration in web applications  
-- React/Next.js best practices
-- Career transitions into tech
-- Collaboration on exciting projects
-
----
-
-<div align="center">
-
-### 🚀 **"Building the future, one component at a time"**
-**⭐ If you find my projects interesting, consider giving them a star!**
+### 💬 Open to Opportunities In:
+`Frontend Engineering` `Full-Stack Development` `React/React Native` `Health Tech` `AI Integration`
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+**⭐ Currently seeking Frontend/Software Engineering roles in Sydney or Remote**
+
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=60&section=footer" width="100%" />
