@@ -99,7 +99,7 @@ const hana = {
 <td valign="top" width="33%">
 
 ### 🚀 **Fast Learner**
-- Master new technologies quickly
+- Master new technologies like a sponge
 - Apply learnings immediately
 - Document and share knowledge
 - Stay current with industry trends
@@ -116,35 +116,6 @@ const hana = {
 </td>
 </tr>
 </table>
-
----
-
-## 📈 **Learning Journey**
-
-```mermaid
-timeline
-    title Frontend Development Journey
-    
-    Week 1-2    : HTML/CSS Mastery
-                : Tailwind CSS
-                : Git & GitHub
-    
-    Week 3-4    : JavaScript ES6+
-                : React Fundamentals
-                : State Management
-    
-    Week 5-6    : TypeScript
-                : Next.js Framework
-                : API Integration
-    
-    Week 7-8    : AI Integration
-                : Database Design
-                : Full-Stack Development
-    
-    Week 9-12   : Portfolio Polish
-                : Job Applications
-                : Interview Prep
-```
 
 ---
 
@@ -224,21 +195,7 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
 
 ---
 
-## 🎯 **Seeking Senior Frontend Opportunities**
 
-<div align="center">
-
-### 🔍 **Ready for Senior Frontend Developer Roles**
-
-| Role Type | Experience Level | Location Preference | Availability |
-|-----------|------------------|-------------------|--------------|
-| Senior Frontend Developer | 2+ Years React | Sydney, Australia | Immediate |
-| Full-Stack Developer (Frontend Focus) | Mid-Level | Remote/Hybrid | Immediate |
-| Technical Lead - Frontend | Team Lead Ready | Sydney Metro | Immediate |
-
-**Current Salary Expectation:** $90K - $120K AUD (negotiable based on role/company)
-
-</div>
 
 ---
 
