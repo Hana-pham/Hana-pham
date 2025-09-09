@@ -22,93 +22,14 @@ const hana = {
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
 
-### 🌙 **Luna** - AI-Powered Women's Wellness Platform
-**Problem:** 89% of women juggle 4+ disconnected health apps while lacking trusted health guidance  
-**Solution:** Comprehensive wellness platform with AI-driven pattern recognition and safety protocols
-
-**Tech Stack:**
-```javascript
-Frontend: React Native, TypeScript, Redux Toolkit, Tailwind CSS
-Backend: Node.js, Express, GraphQL, PostgreSQL
-AI/ML: OpenAI API, TensorFlow, Pattern Recognition
-Security: JWT, OAuth 2.0, HIPAA Compliance
-```
-
-**Key Features:**
-- 🧠 AI pattern recognition for personalized health insights
-- 🔒 Progressive feature access with eating disorder prevention
-- 📊 Real-time analytics without triggering obsessive behaviors
-- 📱 Cross-platform (iOS, Android, Web) with 95% code reuse
-
-**[Live Demo](https://luna-demo.vercel.app)** | **[Case Study](https://hanapham.com/projects/luna)** | **[GitHub](#)**
-
----
-
-### 🌸 **SpringPetals** - AI Floral Discovery Platform
-**Problem:** Finding perfect flowers for occasions is overwhelming with limited local knowledge  
-**Solution:** AI-powered platform for flower recommendations, care tips, and local florist connections
-
-**Tech Stack:**
-```javascript
-Frontend: Next.js 14, TypeScript, Tailwind CSS
-Backend: Supabase, Edge Functions, PostgreSQL
-AI: GPT-4, DALL-E 3, Semantic Search
-Maps: Mapbox GL, Geolocation API
-```
-
-**Key Features:**
-- 🤖 AI flower recommendations based on meaning and occasion
-- 🎨 DALL-E generated flower arrangement visualizations
-- 📍 Sydney florist integration with real-time availability
-- 💐 Personalized care guides and reminders
-
-**[Live Demo](https://springpetals.vercel.app)** | **[GitHub](#)**
-
----
-
-### ⚡ **Zippy** - AI Design-to-Code Converter
-**Problem:** Converting Figma designs to code is time-consuming and repetitive  
-**Solution:** Automated tool that converts designs to production-ready code in seconds
-
-**Tech Stack:**
-```javascript
-Core: Python, TypeScript, Node.js
-AI: GPT-4 Vision API, Custom ML Models
-Integration: Figma API, REST APIs
-Output: HTML5, CSS3, React Components
-```
-
-**Key Features:**
-- 🎯 70% reduction in design-to-code time
-- 🔄 80% automation accuracy with smart component detection
-- 📦 Export-ready code with responsive design
-- 🎨 Maintains design system consistency
-
-**[Demo Video](#)** | **[GitHub](#)**
-
----
-
-### 🎬 **Movie Library** - Native Mobile Applications
-**Problem:** Need for a seamless movie browsing and booking experience across platforms  
-**Solution:** Native iOS and Android apps with real-time movie data and booking capabilities
-
-**Tech Stack:**
-```javascript
-iOS: Swift, UIKit, Core Data, Combine
-Android: Kotlin, Jetpack Compose, Room, Coroutines
-Backend: REST API, GraphQL, Redis Cache
-Testing: XCTest, Espresso, Jest
-```
-
-**Key Features:**
-- 📱 Native performance with platform-specific UI
-- 🎫 Real-time seat selection and booking
-- 💾 Offline mode with smart caching
-- 🔔 Push notifications for new releases
-
-**[iOS App](#)** | **[Android App](#)** | **[GitHub](#)**
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **[Luna](https://luna-demo.vercel.app)** - Women's Wellness Platform | `React Native` `TypeScript` `Node.js` `PostgreSQL` `OpenAI API` `TensorFlow` `JWT` | AI-powered wellness platform with cycle-aware nutrition tracking and eating disorder prevention protocols |
+| **[SpringPetals](https://springpetals.vercel.app)** - AI Floral Discovery | `Next.js 14` `TypeScript` `Supabase` `GPT-4` `DALL-E 3` `Mapbox GL` | AI-driven flower recommendations with local Sydney florist integration and care guides |
+| **[Zippy](#)** - Design-to-Code Converter | `Python` `TypeScript` `GPT-4 Vision` `Figma API` `Node.js` | Automated tool reducing design-to-code time by 70% with 80% accuracy |
+| **[Movie Library](#)** - Native Mobile Apps | `Swift` `Kotlin` `UIKit` `Jetpack Compose` `GraphQL` `Redis` | Cross-platform movie browsing with real-time booking and offline support |
 
 ---
 
@@ -288,3 +209,4 @@ export const Button: FC<ButtonProps> = ({
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=60&section=footer" width="100%" />
+</div>
