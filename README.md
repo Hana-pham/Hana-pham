@@ -2,37 +2,201 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+AI+Engineer;Building+Smart+%26+Beautiful+Web+Apps;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%7C+AI+Enthusiast;Building+Smart+%26+Interactive+Web+Apps)](https://git.io/typing-svg)
 
 </div>
 
+---
+
 ## 🚀 About Me
 
-I'm a **Frontend Developer** passionate about creating intelligent, user-centric applications. I combine modern web technologies with AI to solve real-world problems.
+I'm a software development enthusiast, passionate about creating intelligent, user-centric applications. I combine modern web technologies with AI to solve real-world problems.
 
 ```javascript
 const hana = {
   location: "Sydney, Australia 🇦🇺",
-  currentFocus: "Full-Stack Development + AI Integration",
-  availableFor: "Frontend & Software Engineering Roles",
+  currentFocus: "Frontend & Software Development + AI Integration",
   learning: ["System Design", "React Native", "Machine Learning"],
-  motto: "Building technology that makes a difference"
 }
 ```
 
 ---
 
-## 🚀 Featured Projects
+# 🧩 Notable Projects
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **[Luna](https://luna-demo.vercel.app)** - Women's Wellness Platform | `React Native` `TypeScript` `Node.js` `PostgreSQL` `OpenAI API` `TensorFlow` `JWT` | AI-powered wellness platform with cycle-aware nutrition tracking and eating disorder prevention protocols |
-| **[SpringPetals](https://springpetals.vercel.app)** - AI Floral Discovery | `Next.js 14` `TypeScript` `Supabase` `GPT-4` `DALL-E 3` `Mapbox GL` | AI-driven flower recommendations with local Sydney florist integration and care guides |
-| **[Zippy](#)** - Design-to-Code Converter | `Python` `TypeScript` `GPT-4 Vision` `Figma API` `Node.js` | Automated tool reducing design-to-code time by 70% with 80% accuracy |
-| **[Movie Library](#)** - Native Mobile Apps | `Swift` `Kotlin` `UIKit` `Jetpack Compose` `GraphQL` `Redis` | Cross-platform movie browsing with real-time booking and offline support |
+## 🔮 AI & Frontend Engineering
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Tech Stack</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><a href="https://springpetals.vercel.app"><b>SpringPetals</b></a> — AI Floral Discovery</td>
+<td>
+
+<img src="https://img.shields.io/badge/Next.js-FF69B4?logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-FFB6C1?logo=typescript&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-FFC0CB?logo=supabase&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-FF69B4?logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Mapbox-FFB6C1?logo=mapbox&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel-FFC0CB?logo=vercel&logoColor=black" />
+
+</td>
+<td>AI-driven flower recommendations with local Sydney florist integration and care guides.</td>
+</tr>
+
+<tr>
+<td><b>Zippy</b> — Design-to-Code Converter</td>
+<td>
+
+<img src="https://img.shields.io/badge/Python-FF69B4?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-FFC0CB?logo=typescript&logoColor=black" />
+<img src="https://img.shields.io/badge/GPT-4_Vision-FF69B4?logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma_API-FFC0CB?logo=figma&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-FFB6C1?logo=nodedotjs&logoColor=black" />
+
+</td>
+<td>Automates design → code, cutting handoff time by ~70% with ~80% fidelity.</td>
+</tr>
+
+</tbody>
+</table>
 
 ---
 
+## 📱 Mobile Engineering
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Tech Stack</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><a href="https://luna-demo.vercel.app"><b>Luna</b></a> — Women’s Wellness Platform</td>
+<td>
+
+<img src="https://img.shields.io/badge/React_Native-FF69B4?logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-FFB6C1?logo=typescript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-FFC0CB?logo=nodedotjs&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-FF69B4?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-FFB6C1?logo=openai&logoColor=black" />
+<img src="https://img.shields.io/badge/TensorFlow-FF69B4?logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-FFC0CB?logo=jsonwebtokens&logoColor=black" />
+
+</td>
+<td>Cycle-aware nutrition tracking with safeguards for disordered-eating patterns.</td>
+</tr>
+
+<tr>
+<td><b>Movie Library</b> — iOS &amp; Android</td>
+<td>
+
+<img src="https://img.shields.io/badge/Swift-FF69B4?logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-FFC0CB?logo=kotlin&logoColor=black" />
+<img src="https://img.shields.io/badge/UIKit-FFB6C1?logo=apple&logoColor=black" />
+<img src="https://img.shields.io/badge/Jetpack_Compose-FF69B4?logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-FFC0CB?logo=graphql&logoColor=black" />
+<img src="https://img.shields.io/badge/Redis-FF69B4?logo=redis&logoColor=white" />
+
+</td>
+<td>Cross-platform movie browsing with real-time booking and offline caching.</td>
+</tr>
+
+</tbody>
+</table>
+
+---
+
+## 🔬 Data & Experiments
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Tech Stack</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><b>AB Testing Toolkit</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Python-FF69B4?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-FFC0CB?logo=pandas&logoColor=black" />
+<img src="https://img.shields.io/badge/NumPy-FF69B4?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-FFC0CB?logo=scipy&logoColor=black" />
+<img src="https://img.shields.io/badge/Jupyter-FF69B4?logo=jupyter&logoColor=white" />
+
+</td>
+<td>Reusable notebooks for trial design, power analysis, and uplift measurement.</td>
+</tr>
+
+<tr>
+<td><b>EDA Playbook</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Python-FFC0CB?logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-FF69B4?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-FFC0CB?logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/pandas-FF69B4?logo=pandas&logoColor=white" />
+
+</td>
+<td>Exploratory analytics templates: cohort, RFM, segmentation, seasonality, retention.</td>
+</tr>
+
+</tbody>
+</table>
+
+---
+
+## 🏆 What Sets Me Apart
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🎯 Problem Solver
+- Identify real-world problems  
+- Design user-centric solutions  
+- Implement with modern tech stack  
+- Iterate based on feedback  
+
+</td>
+<td valign="top" width="33%">
+
+### 🚀 Fast Learner
+- Master new technologies quickly  
+- Apply learnings immediately  
+- Document and share knowledge  
+- Stay current with trends  
+
+</td>
+<td valign="top" width="33%">
+
+### 🤝 Collaboration Ready
+- Clear communication skills  
+- Experience with modern workflows  
+- Open to feedback & mentorship  
+- Team player mindset  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
+</div>
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -73,116 +237,14 @@ const hana = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
-
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=FF69B4&icon_color=FF69B4"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula&stroke=FF69B4&ring=FF69B4&fire=FF69B4" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hana-pham&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=FF69B4&icon_color=FF69B4"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hana-pham&theme=dracula&stroke=FF69B4&ring=FF69B4&fire=FF69B4" alt="GitHub Streak" />
 </div>
-
----
-
-## 💻 Code Philosophy
-
-<details>
-<summary><b>Clean Architecture</b></summary>
-
-```typescript
-// Example: Separation of concerns in React
-// hooks/useHealthData.ts
-export const useHealthData = (userId: string) => {
-  const [data, setData] = useState<HealthData | null>(null);
-  const [loading, setLoading] = useState(true);
-  
-  useEffect(() => {
-    fetchHealthData(userId)
-      .then(setData)
-      .finally(() => setLoading(false));
-  }, [userId]);
-  
-  return { data, loading };
-};
-
-// components/HealthDashboard.tsx
-export const HealthDashboard: FC = () => {
-  const { data, loading } = useHealthData(userId);
-  
-  if (loading) return <Skeleton />;
-  return <DashboardView data={data} />;
-};
-```
-
-</details>
-
-<details>
-<summary><b>Performance First</b></summary>
-
-```javascript
-// Example: Optimized API with caching
-const getCachedData = async (key, fetchFn, ttl = 3600) => {
-  const cached = await redis.get(key);
-  if (cached) return JSON.parse(cached);
-  
-  const fresh = await fetchFn();
-  await redis.setex(key, ttl, JSON.stringify(fresh));
-  return fresh;
-};
-
-// Usage with automatic cache invalidation
-router.get('/api/user/:id/patterns', async (req, res) => {
-  const data = await getCachedData(
-    `patterns:${req.params.id}`,
-    () => analyzeUserPatterns(req.params.id),
-    3600
-  );
-  res.json(data);
-});
-```
-
-</details>
-
-<details>
-<summary><b>User-Centric Design</b></summary>
-
-```tsx
-// Example: Accessible, responsive component
-interface ButtonProps {
-  variant: 'primary' | 'secondary';
-  loading?: boolean;
-  children: React.ReactNode;
-  onClick: () => void;
-  ariaLabel?: string;
-}
-
-export const Button: FC<ButtonProps> = ({ 
-  variant, loading, children, onClick, ariaLabel 
-}) => (
-  <StyledButton
-    variant={variant}
-    onClick={onClick}
-    disabled={loading}
-    aria-label={ariaLabel || children}
-    aria-busy={loading}
-  >
-    {loading ? <Spinner /> : children}
-  </StyledButton>
-);
-```
-
-</details>
-
----
-
-## 🎯 What I Bring to Your Team
-
-- **🚀 Fast Learner:** Built 4 full-stack projects while working full-time
-- **💡 Problem Solver:** Focus on user needs and business impact
-- **📈 Data-Driven:** Decisions backed by research and metrics
-- **🤝 Team Player:** Clear communication and documentation
-- **✨ Quality Focus:** Clean code, tested features, scalable architecture
 
 ---
 
@@ -190,8 +252,8 @@ export const Button: FC<ButtonProps> = ({
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-pham-601a551b0/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hanapham.com-FF69B4?style=for-the-badge&logo=firefox&logoColor=white)](https://hanapham.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-pham-601a551b0/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-hanapham.com-FF69B4?style=for-the-badge&logo=firefox&logoColor=white)](https://hanapham.com/)  
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the.hanapham@gmail.com)
 
 ### 💬 Open to Opportunities In:
