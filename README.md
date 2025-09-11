@@ -22,7 +22,7 @@ const hana = {
 
 ---
 
-# 🧩 Notable Projects
+# 🧩 Projects
 
 ## 🔮 AI & Frontend Engineering
 <table>
