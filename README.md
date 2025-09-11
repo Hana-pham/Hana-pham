@@ -36,7 +36,7 @@ const hana = {
 <tbody>
 
 <tr>
-<td><a href="https://springpetals.vercel.app"><b>SpringPetals</b></a> — AI Floral Discovery</td>
+<td><a href="https://spring-petals.com"><b>SpringPetals</b></a> — AI Floral Discovery</td>
 <td>
 
 <img src="https://img.shields.io/badge/Next.js-FF69B4?logo=nextdotjs&logoColor=white" />
@@ -51,7 +51,7 @@ const hana = {
 </tr>
 
 <tr>
-<td><b>Zippy</b> — Design-to-Code Converter</td>
+<td><a href="https://github.com/Hana-pham/Zippy"<b>Zippy</b></a>— Design-to-Code Converter</td>
 <td>
 
 <img src="https://img.shields.io/badge/Python-FF69B4?logo=python&logoColor=white" />
@@ -81,7 +81,7 @@ const hana = {
 <tbody>
 
 <tr>
-<td><a href="https://luna-demo.vercel.app"><b>Luna</b></a> — Women’s Wellness Platform</td>
+<td><a href="https://github.com/Hana-pham/Luna"><b>Luna</b></a> — Women’s Wellness Platform</td>
 <td>
 
 <img src="https://img.shields.io/badge/React_Native-FF69B4?logo=react&logoColor=white" />
@@ -175,7 +175,7 @@ const hana = {
 <td valign="top" width="33%">
 
 ### 🚀 Fast Learner
-- Master new technologies quickly  
+- Master new technologies like a sponge
 - Apply learnings immediately  
 - Document and share knowledge  
 - Stay current with trends  
